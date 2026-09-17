@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Round kids eyeglasses illustration</title>
+  <desc id="desc">A cheerful sage-green round eyeglass frame on a soft yellow background.</desc>
+  <rect width="640" height="360" rx="18" fill="#FFF8E8"/>
+  <path d="M84 270c72-55 111-73 186-73 63 0 98 13 150 13 58 0 88-23 136-23" fill="none" stroke="#F3DDB2" stroke-width="35" stroke-linecap="round" opacity=".75"/>
+  <circle cx="206" cy="180" r="72" fill="#7C9A82" fill-opacity=".18" stroke="#16232E" stroke-width="10"/>
+  <circle cx="434" cy="180" r="72" fill="#7C9A82" fill-opacity=".18" stroke="#16232E" stroke-width="10"/>
+  <path d="M278 175c19-18 43-18 64 0" fill="none" stroke="#16232E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M134 158 93 140M506 158l41-18" fill="none" stroke="#16232E" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="176" cy="161" r="8" fill="#D98E2B"/><circle cx="404" cy="161" r="8" fill="#D98E2B"/>
+</svg>
